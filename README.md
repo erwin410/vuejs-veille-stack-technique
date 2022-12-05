@@ -12,7 +12,7 @@ L'invonvénients c'est qu'il manque d'évolutivité, manque de plugins et à une
 
 ## Quelles sont les technologies adjacentes ?
 
-
+1. Node.Js
 
 
 ## Qui sont les concurrents ?
